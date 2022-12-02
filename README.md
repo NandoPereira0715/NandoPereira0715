@@ -6,7 +6,7 @@
 
 <div align="center">
   <a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eduardo7070&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NandoPereira0715&layout=compact&langs_count=7&theme=dark"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="nando-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
